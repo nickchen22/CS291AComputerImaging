@@ -6,4 +6,4 @@ Pre-requisite Installations:
 	- Anaconda
  	- numpy (use brew or pip)
  	- tensorflow <conda install tensorflow>
- 	- h5py
+ 	- h5py (brew or pip)
