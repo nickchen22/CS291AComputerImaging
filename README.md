@@ -7,3 +7,4 @@ Pre-requisite Installations:
  	- numpy (use brew or pip)
  	- tensorflow <conda install tensorflow>
  	- h5py (brew or pip)
+ 	- opencv (<pip install opencv-python>)
